@@ -1,4 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripthubpetsimx/Muhammad6196./refs/heads/main/VISUAL%20PET%20SPAWNER.txt"))()
-
-wait(10)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripthubpetsimx/Muhammad6196./refs/heads/main/SCRIPTER%20S"))()
